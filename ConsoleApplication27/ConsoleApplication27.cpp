@@ -5,6 +5,6 @@
 
 int main()
 {
-    std::cout << "Fuck this world!\n";
+    std::cout << "Fuck this world!\n"; //qerdt;lojuhytrgfee44
 }
 
