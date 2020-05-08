@@ -6,4 +6,4 @@
 int main()
 {
     std::cout << "Fuck this world!\n";
-
+}
